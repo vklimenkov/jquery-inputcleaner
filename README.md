@@ -1,0 +1,2 @@
+# jquery-inputcleaner
+jQuery plugin
