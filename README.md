@@ -1,4 +1,3 @@
-[jQuery Validation Plugin](https://jqueryvalidation.org/) - Form validation made easy
 # jquery-inputcleaner
 Плагин для jQuery, реализует в элементе <input type="text"> всплывающую при наведении иконку, нажатие на которую очищает input.
 ## Начало работы
