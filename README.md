@@ -8,7 +8,9 @@
 <script src="jquery.js"></script>
 <script src="jquery.inputcleaner.js"></script>
 <script>
-  $("input").inputcleaner();
+  $(document).ready(function(){
+    $("input").inputcleaner();
+  });
 </script>
 ```
 ## Опции
